@@ -1,0 +1,1 @@
+{"name":"A Bujo","events":[{"name":"Event1","description":"text","day":"MONDAY","time":4,"duration":120,"displayed":false}],"tasks":[{"name":"task1","description":"more text","complete":false,"day":"FRIDAY","displayed":false}],"taskMax":2,"eventMax":3,"notes":"asdfadsfa fasasdfadsf"}
