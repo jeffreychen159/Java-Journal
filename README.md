@@ -1,3 +1,7 @@
+# 3500 PA05 Project Repo
+
+![Untitled drawing](https://github.com/CS-3500-OOD/pa05-cessnachenandthatch/assets/78924156/14339572-2042-4595-b88f-9b1d889c8719)
+
 # App Pitch
 An interactive calender app with the ability to see and create events and tasks,
 along with seeing diagnostic information for the week, changing the theme of the calender,
@@ -22,7 +26,3 @@ constructor to allow execution. This is shown in the use of passing a stage into
 # Feature Extension
 
 If we were to extend our program to add an additional feature, one example of a feature that we could implement is having Mind Changes. We could implement this by making it so that the TextFlows of a journal item would have an on-action of opening up a new popup that will prompt us with a bunch of text fields for editing specific details. In the class that is representing this popup, we will pass the journal item so that the fields of the journal item object can be edited. After taking in user input with text fields, there will be a submit button that sets the fields of the journal item object to the new ones that the user gave, and our refresh method should display the new changes made to the journal item.
-
-# 3500 PA05 Project Repo
-
-![Untitled drawing](https://github.com/CS-3500-OOD/pa05-cessnachenandthatch/assets/78924156/14339572-2042-4595-b88f-9b1d889c8719)
