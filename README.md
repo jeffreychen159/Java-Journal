@@ -1,6 +1,6 @@
 # 3500 PA05 Project Repo
 
-[![Untitled drawing](https://imgur.com/a/Pwt9bmj)]
+![Java Journal](https://github.com/user-attachments/assets/bd85ecc3-1971-4390-82e5-68e509830f10)
 
 # App Pitch
 An interactive calender app with the ability to see and create events and tasks,
