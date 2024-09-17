@@ -1,6 +1,6 @@
 # 3500 PA05 Project Repo
 
-![Untitled drawing](https://github.com/CS-3500-OOD/pa05-cessnachenandthatch/assets/78924156/14339572-2042-4595-b88f-9b1d889c8719)
+[![Untitled drawing](https://imgur.com/a/Pwt9bmj)]
 
 # App Pitch
 An interactive calender app with the ability to see and create events and tasks,
