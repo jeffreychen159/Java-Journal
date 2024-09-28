@@ -1,4 +1,4 @@
-# 3500 PA05 Project Repo
+# Project Repo
 
 ![Java Journal](https://github.com/user-attachments/assets/bd85ecc3-1971-4390-82e5-68e509830f10)
 
