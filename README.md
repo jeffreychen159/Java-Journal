@@ -19,9 +19,7 @@ Our program is open for extension because we are able to easily implement a new 
 Liskov Substitution: While we don’t have interfaces to really solidify Liskov Substitution, we have a model of Liskov Substitution in action in our controller. In our code, we have a Bujo controller which is our main controller for the program. In this controller, while we don’t have subclasses, we have fields of these controllers which we use for popups. According to Liskov Substitution, if our popup controllers were removed and replaces with the main class, our code will still function. We just won’t have popups for our journal. 
 
 Dependency Inversion 
-Our program makes use of dependency injection by utilizing 
-dependency injection to accept the required objects in the  
-constructor to allow execution. This is shown in the use of passing a stage into serveal of our popup controller classes. This allows individual parts of our code to operate in isolation of eachother and avoing high coupling.
+Our program makes use of dependency injection by utilizing dependency injection to accept the required objects in the constructor to allow execution. This is shown in the use of passing a stage into serveal of our popup controller classes. This allows individual parts of our code to operate in isolation of eachother and avoing high coupling.
 
 # Feature Extension
 
